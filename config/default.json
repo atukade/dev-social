@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://tukadeanuj:tukadeanuj@devsocial.zf8k4.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://tukadeanuj:tukadeanuj@devsocial.zf8k4.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "randomsecrettoken"
 }
